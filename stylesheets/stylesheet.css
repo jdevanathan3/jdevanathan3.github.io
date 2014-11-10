@@ -285,8 +285,6 @@ Full-Width Styles
 }
 
 #header_wrap {
-  width: 900px; 
-	margin: 0 auto; 
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
@@ -389,6 +387,8 @@ Small Device Styles
   }
 
   #project_title {
+  width: 900px; 
+  margin: 0 auto; 
   font-size: 32px;
   }
 
